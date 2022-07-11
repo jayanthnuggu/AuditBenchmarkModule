@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditBenchmarkModule", "AuditBenchmarkModule.csproj", "{EE2DE156-84A6-4D4D-8380-937E8E626BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuditBenchmarkTesting", "..\AuditBenchmarkTesting\AuditBenchmarkTesting.csproj", "{C62973B0-4855-4589-BC64-E6BA3C3D7022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE2DE156-84A6-4D4D-8380-937E8E626BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE2DE156-84A6-4D4D-8380-937E8E626BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE2DE156-84A6-4D4D-8380-937E8E626BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE2DE156-84A6-4D4D-8380-937E8E626BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C62973B0-4855-4589-BC64-E6BA3C3D7022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C62973B0-4855-4589-BC64-E6BA3C3D7022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C62973B0-4855-4589-BC64-E6BA3C3D7022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C62973B0-4855-4589-BC64-E6BA3C3D7022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CB972DF-88B5-468C-A4E8-6F2D94387C63}
+	EndGlobalSection
+EndGlobal
